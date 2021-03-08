@@ -75,7 +75,7 @@ Pre-course:
 * Create a [GitHub account](https://github.com/) if you don't have one
 * Download and install [Anaconda](https://www.anaconda.com/products/individual)
 
-Week 1: Introduction. APIs
+[Week 1: Introduction. APIs](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week1)
 
 Week 2: Web scraping
 
