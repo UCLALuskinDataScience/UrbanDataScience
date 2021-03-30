@@ -27,7 +27,7 @@ We will primarily use Slack to maintain communication outside of scheduled class
 
 ## Textbook
 There is no textbook for the class. All required readings will be posted here on GitHub. However, you may find some of the following books helpful.
-* [Python for Data Analysis, 2nd edition](https://bookshop.org/books/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-9781491957660/9781491957660). This focuses on the `pandas` library.
+* [Python for Data Analysis, 2nd edition](https://bookshop.org/books/python-for-data-analysis-data-wrangling-with-pandas-numpy-and-ipython-9781491957660/9781491957660). This focuses on the `pandas` library. The UCLA Library has a copy.
 * [Think Python, 2nd edition](https://greenteapress.com/wp/think-python-2e/). This is a free ebook and is an excellent general refresher on Python syntax and data structures.
 
 ## Class participation
