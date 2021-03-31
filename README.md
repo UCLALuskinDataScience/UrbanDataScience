@@ -76,6 +76,7 @@ Pre-course:
 * Download and install [Anaconda](https://www.anaconda.com/products/individual)
 
 [Week 1: Introduction. APIs](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week1)
+* [Homework](https://classroom.github.com/a/QnMFJCbo) due 5pm, Apr 5
 
 Week 2: Web scraping
 
@@ -84,10 +85,10 @@ Week 3: Data wrangling
 Week 4: Natural language processing (1): parsing
 
 Week 5: Natural language processing (2): sentiment analysis
-*Guest: Zachary Steinert-Threlkeld, Department of Public Policy, UCLA (April 27)*
+* *Guest: Zachary Steinert-Threlkeld, Department of Public Policy, UCLA (April 27)*
 
 Week 6: Flex week. *We'll catch up, reinforce previous topics, and/or add additional topics by demand.*
-*Guest: Claudia Preciado, Remix (May 4)*
+* *Guest: Claudia Preciado, Remix (May 4)*
 
 Week 7: Machine learning (1): supervised algorithms
 
