@@ -76,9 +76,10 @@ Pre-course:
 * Download and install [Anaconda](https://www.anaconda.com/products/individual)
 
 [Week 1: Introduction. APIs](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week1)
-* [Homework](https://classroom.github.com/a/QnMFJCbo) due 5pm, Apr 5
+* [Homework](https://classroom.github.com/a/QnMFJCbo) due 9.30am, Apr 8
 
-Week 2: Web scraping
+[Week 2: Web scraping](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week2)
+* [Homework](https://classroom.github.com/a/X2EWdWqj), due 5pm, Apr 12
 
 Week 3: Data wrangling
 
