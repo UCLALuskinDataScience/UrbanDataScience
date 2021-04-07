@@ -38,7 +38,7 @@ Your active participation is essential to making this course successful and enjo
 * Use Slack to help each other out with questions on the assignments and projects.
 
 ## Graded assignments
-**Weekly homeworks** (25%). Each homework will be posted on Monday and due at 5pm on the following Monday. You must submit at least 7 out of 9 homeworks on time (but please do them all). *We'll spend time in class on Thursday working through the assignment, so please make a start on it before then.*
+**Weekly homeworks** (25%). Each homework will be posted on Monday and due at 5pm on the following Monday. You must submit at least 6 out of 8 homeworks on time (but please do them all). *We'll spend time in class on Thursday working through the assignment, so please make a start on it before then.*
 
 **Challenge problems** (25%). Most homeworks will include a challenge problem, which is more open ended. You must do at least 2 of these, and present one in class.
 
@@ -80,7 +80,7 @@ Pre-course:
 * [How to submit your homework on GitHub](https://github.com/UCLALuskinDataScience/UrbanDataScience/blob/main/Assignment_submission.pdf)
 
 [Week 2: Web scraping](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week2)
-* [Homework](https://classroom.github.com/a/X2EWdWqj), due 5pm, Apr 12
+* [Homework](https://classroom.github.com/a/X2EWdWqj), due 5pm, Apr 19
 
 Week 3: Data wrangling
 
