@@ -83,7 +83,7 @@ Pre-course:
 * [Homework](https://classroom.github.com/a/X2EWdWqj), due 5pm, Apr 19
 
 [Week 3: Data wrangling](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week3)
-* [Homework](https://classroom.github.com/a/G2rJhEwp), due 5pm, Apr 26
+* [Homework](https://classroom.github.com/a/G2rJhEwp), due 5pm, May 3
 
 Week 4: Natural language processing (1): parsing
 
