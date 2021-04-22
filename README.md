@@ -82,15 +82,13 @@ Pre-course:
 [Week 2: Web scraping](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week2)
 * [Homework](https://classroom.github.com/a/X2EWdWqj), due 5pm, Apr 19
 
-[Week 3: Data wrangling](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week3)
+[Weeks 3 and 4: Data wrangling](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week3)
 * [Homework](https://classroom.github.com/a/G2rJhEwp), due 5pm, May 3
 
-Week 4: Natural language processing (1): parsing
-
-Week 5: Natural language processing (2): sentiment analysis
+Week 5: Natural language processing (1): parsing
 * *Guest: Zachary Steinert-Threlkeld, Department of Public Policy, UCLA (April 27)*
 
-Week 6: Flex week. *We'll catch up, reinforce previous topics, and/or add additional topics by demand.*
+Week 6: Natural language processing (2): sentiment analysis
 * *Guest: Claudia Preciado, Remix (May 4)*
 
 Week 7: Machine learning (1): supervised algorithms
