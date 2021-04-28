@@ -85,7 +85,7 @@ Pre-course:
 [Weeks 3 and 4: Data wrangling](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/week3)
 * [Homework](https://classroom.github.com/a/G2rJhEwp), due 5pm, May 3
 
-Week 5: Natural language processing (1): parsing
+[Week 5: Natural language processing (1): parsing](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks5-6)
 * *Guest: Zachary Steinert-Threlkeld, Department of Public Policy, UCLA (April 27)*
 
 Week 6: Natural language processing (2): sentiment analysis
