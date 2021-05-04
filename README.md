@@ -90,6 +90,7 @@ Pre-course:
 
 Week 6: Natural language processing (2): sentiment analysis
 * *Guest: Claudia Preciado, Remix (May 4)*
+* [Homework](https://classroom.github.com/a/HpWxYxUR), due 5pm, May 17
 
 Week 7: Machine learning (1): supervised algorithms
 
