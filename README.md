@@ -92,9 +92,9 @@ Week 6: Natural language processing (2): [topic modeling and sentiment analysis]
 * *Guest: Claudia Preciado, Remix (May 4)*
 * [Homework](https://classroom.github.com/a/HpWxYxUR), due 5pm, May 17
 
-Week 7: Machine learning (1): supervised algorithms
+[Week 7: Machine learning (1): supervised algorithms](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks7-8)
 
-Week 8: Machine learning (2): unsupervised algorithms
+[Week 8: Machine learning (2): unsupervised algorithms](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks7-8)
 
 Week 9: Databases
 
