@@ -88,7 +88,7 @@ Pre-course:
 [Week 5: Natural language processing (1): parsing](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks5-6)
 * *Guest: Zachary Steinert-Threlkeld, Department of Public Policy, UCLA (April 27)*
 
-Week 6: Natural language processing (2): sentiment analysis
+Week 6: Natural language processing (2): [topic modeling and sentiment analysis](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks5-6)
 * *Guest: Claudia Preciado, Remix (May 4)*
 * [Homework](https://classroom.github.com/a/HpWxYxUR), due 5pm, May 17
 
