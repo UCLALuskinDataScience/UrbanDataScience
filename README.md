@@ -97,6 +97,6 @@ Week 6: Natural language processing (2): [topic modeling and sentiment analysis]
 [Week 8: Machine learning (2): unsupervised algorithms](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks7-8)
 * [Homework](https://classroom.github.com/a/ZGuDnzmW), due 5pm, June 2
 
-Week 9: Databases
+[Week 9: Databases](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks9-10)
 
-Week 10: Big data, privacy, and ethics
+[Week 10: Big data, privacy, and ethics](https://github.com/UCLALuskinDataScience/UrbanDataScience/tree/main/weeks9-10)
